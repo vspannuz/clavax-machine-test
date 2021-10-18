@@ -1,0 +1,43 @@
+
+
+
+
+
+
+table{
+  border:1px solid black;
+  align: center;
+  margin-top: 20px;
+}
+#trow{
+  border:1px solid black;
+}
+#heading{
+  border:3px solid black;
+  color:black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 250px;
+  margin-top: 50px;
+
+
+}
+td{
+  padding: 20px;
+  text-align:center;
+}
+.new{
+  color:black;
+  border:1px solid black;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 950px;
+  margin-bottom: 100px;
+
+}
+#page{
+  text-align: center;
+}
